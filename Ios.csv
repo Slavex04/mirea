@@ -497,7 +497,7 @@ id;Speciality;Vacancy;Date;Date (Квартал);AvgSalary;salary_to;salary_from
 1;Разработчик;Middle IOS разработчик SwiftUI + Combine;21.07.2021;3;100000;;100000;RUR;Диджитал Лайн;2021;Екатеринбург;Russian Federation;56.8519000;60.6122000;
 1;Разработчик;Middle IOS разработчик SwiftUI + Combine;29.08.2021;3;100000;;100000;RUR;AGCSOFT;2021;Казань;Russian Federation;55.7887400;49.1221400;
 1;Разработчик;Middle IOS разработчик SwiftUI + Combine;02.08.2021;3;100000;;100000;RUR;Диджитал Лайн;2021;Москва;Russian Federation;55.755864;37.617698;
-1;Разработчик;Middle iOS Developer;07.05.2021;2;2225;2450;2000;RUR;Deep Longevity;2021;Москва;Russian Federation;55.755864;37.617698;
+1;Разработчик;Middle iOS Developer;07.05.2021;2;222500;222500;222500;RUR;Deep Longevity;2021;Москва;Russian Federation;55.755864;37.617698;
 1;Разработчик;Middle iOS developer;20.06.2021;2;140000;;140000;RUR;Bip.ru;2021;Москва;Russian Federation;55.755864;37.617698;
 1;Разработчик;Middle IOS Developer;21.05.2021;2;100000;;100000;RUR;СЕНЛА;2021;Москва;Russian Federation;55.755864;37.617698;
 1;Разработчик;Middle IOS Developer;18.07.2021;3;200000;;200000;RUR;AppQuantum;2021;Москва;Russian Federation;55.755864;37.617698;
@@ -505,8 +505,8 @@ id;Speciality;Vacancy;Date;Date (Квартал);AvgSalary;salary_to;salary_from
 1;Разработчик;Middle iOS Developer;24.08.2021;3;210000;240000;180000;RUR;FUNCORP;2021;Санкт-Петербург;Russian Federation;59.9386301;30.3141301;
 1;Разработчик;Middle iOS Developer;10.09.2021;3;210000;250000;170000;RUR;Aero;2021;Санкт-Петербург;Russian Federation;59.9386301;30.3141301;
 1;Разработчик;Middle iOS developer;28.11.2021;4;175000;200000;150000;RUR;Bip.ru;2021;Санкт-Петербург;Russian Federation;59.9386301;30.3141301;
-1;Разработчик;Middle iOS Developer;10.10.2021;4;2250;3000;1500;RUR;App in the Air;2021;Санкт-Петербург;Russian Federation;59.9386301;30.3141301;
-1;Разработчик;Middle iOS Developer;19.10.2021;4;2250;3000;1500;RUR;App in the Air;2021;Москва;Russian Federation;55.755864;37.617698;
+1;Разработчик;Middle iOS Developer;10.10.2021;4;222500;222500;222500;RUR;App in the Air;2021;Санкт-Петербург;Russian Federation;59.9386301;30.3141301;
+1;Разработчик;Middle iOS Developer;19.10.2021;4;222500;222500;222500;RUR;App in the Air;2021;Москва;Russian Federation;55.755864;37.617698;
 1;Разработчик;Middle iOS Developer (удаленка);08.07.2021;3;100000;;100000;RUR;НИКИ.ФИЛИНИ;2021;Екатеринбург;Russian Federation;56.8519000;60.6122000;
 1;Разработчик;Middle iOS developer (RxSwift);28.09.2021;3;220000;220000;220000;RUR;Hi, Rockits!;2021;Самара;Russian Federation;53.2000700;50.1500000;
 1;Разработчик;Middle iOS developer (RxSwift);05.11.2021;4;220000;220000;220000;RUR;Hi, Rockits!;2021;Москва;Russian Federation;55.755864;37.617698;
