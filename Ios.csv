@@ -1,4 +1,4 @@
-id;Speciality;Vacancy;Date;Date (Квартал);AvgSalary;salary_to;salary_from;salary_currency;employer_name;Year;area_name;Country;lat;lon;
+id;Speciality;Вакансия;Date;Date (Квартал);AvgSalary;salary_to;salary_from;salary_currency;employer_name;Year;area_name;Country;lat;lon;
 1;Другая специальность;Бизнес-аналитик мобильного приложения (iOS/Android) в ИТ компанию Первая Форма;17.04.2020;2;60000;;60000;RUR;Территория Про;2020;Москва;Russian Federation;55.755864;37.617698;
 1;Другая специальность;Интернет-маркетолог по ASO / SEO в среде IOS / Android;14.04.2020;2;30000;30000;30000;RUR;GoRMBGames;2020;Москва;Russian Federation;55.755864;37.617698;
 2;Другая специальность;Младший менеджер по работе с клиентами в рекламную группу KIOSK;28.08.2020;3;40000;;40000;RUR;Киоск Групп;2020;Москва;Russian Federation;55.755864;37.617698;
